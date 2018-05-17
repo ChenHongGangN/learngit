@@ -1,2 +1,2 @@
 Git is a distributed newfiber  version control system.
-Git is free software.
+Git is free software distributec under the GPL.
